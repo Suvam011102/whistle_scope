@@ -1,8 +1,6 @@
-pandas
 numpy
-scipy
-matplotlib
-seaborn
+pandas
+Pillow
 plotly
+scipy
 streamlit
-statsmodels
