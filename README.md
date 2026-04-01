@@ -3,7 +3,7 @@
 WhistleScope is a Streamlit analytics application for exploring Premier League refereeing patterns across multiple seasons.
 It combines league-level summaries, referee style analysis, home-away bias checks, VAR-era comparisons, and a written analyst brief in a darker, app-style interface.
 
-## Public Link: https://refinsights.streamlit.app
+#### Public Link: https://refinsights.streamlit.app
 
 ## Features
 
